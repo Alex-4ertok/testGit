@@ -1,0 +1,4 @@
+<?php
+// тест Git
+echo "тест Git";
+echo "Git";
