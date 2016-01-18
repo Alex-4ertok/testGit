@@ -3,5 +3,5 @@
 echo "тест Git";
 echo "Git";
 echo "git2";
-
+echo "git4";
 test
